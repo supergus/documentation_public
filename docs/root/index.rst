@@ -11,7 +11,7 @@ Liveline Technologies
   :maxdepth: 2
 
   about_us
-  intro
+  intro/intro
   data_science/data_science
   integration/integration
-  faq
+  faq/faq
