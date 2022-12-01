@@ -1,4 +1,4 @@
-Dater Sciencies
+Data Science
 ===============
 
 Add the sweetness
