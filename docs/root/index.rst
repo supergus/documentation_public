@@ -14,4 +14,4 @@ Liveline Technologies
   intro/intro
   data_science/data_science
   integration/integration
-  faq
+  faq/faq
