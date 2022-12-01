@@ -6,4 +6,4 @@ Add the sweetness
 
 .. toctree::
   :maxdepth: 2
- controls
+ controls/digital_controls_platform
