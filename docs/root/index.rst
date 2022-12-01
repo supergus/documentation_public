@@ -12,6 +12,6 @@ Liveline Technologies
 
   about_us
   intro
-  data_science/data_science
-  integration/integration
+  data_science
+  integration
   faq
