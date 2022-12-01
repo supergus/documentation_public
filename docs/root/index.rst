@@ -8,7 +8,7 @@ Liveline Technologies
     This is pre-release documentation. Contact us at support@liveline.tech for more indepth information.
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 2
 
   about_us
   intro
