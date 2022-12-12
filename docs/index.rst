@@ -16,3 +16,7 @@ Liveline Technologies
   data_science/data_science
   integration/integration
   faq/faq
+  cost_model/cost_model
+  the_team/the_team
+  partners
+  
