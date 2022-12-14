@@ -19,4 +19,7 @@ Liveline Technologies
   cost_model/cost_model
   the_team/the_team
   partners
+  pricing/pricing
+  readinesscustomer/readinesscustomer
+  termsofservice
   
