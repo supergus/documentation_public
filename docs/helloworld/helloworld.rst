@@ -1,4 +1,4 @@
-src.helloworld module
+Hello World
 -------------------------------------
 
 .. automodule:: src.helloworld
