@@ -1,4 +1,4 @@
-Cost Model Example1
+Cost Model Examples
 ===================
 
 Place holder info
