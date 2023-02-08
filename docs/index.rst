@@ -9,17 +9,29 @@
 
 .. _demo_docs_online_demo-label:
 
-Liveline Technologies
-=====================
+Welcome to Liveline Technologies
+================================
 
+.. role:: raw-html(raw)
+    :format: html
 
+.. list-table::
+   :widths: 80 25
+   :header-rows: 1
 
-  .. attention::
-
-    This is pre-release documentation. Contact us at support@liveline.tech for more indepth information.
+   * - Feature
+     - Learn more
+   * - Train models using large datasets that exceed physical memory :raw-html:`<br />`
+     - :ref:`Data extraction<demo_docs_top-label>`
+   * - Save, reuse, and recombine project objects such as feature pipelines :raw-html:`<br />`
+     - :ref:`Project API<demo_docs_top-label>`
+   * - Export trained models in binarized, deployable file objects (LPPs) :raw-html:`<br />`
+     - :ref:`Exporting results <demo_docs_top-label>`
 
 .. toctree::
-    :maxdepth: 2
+   :caption: Contents
+   :maxdepth: 1
+   :name: contents_toc
 
     Our advantage <advantage>
     about_us

@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = u'documentation_public'
+project = u'Public documentation'
 copyright = '2022, Liveline Technologies'
 author = u'Liveline Technologies'
 
