@@ -1,4 +1,9 @@
 Pricing
-========
+===========
 
-List of pricing models for customer
+Placeholder for pricing content
+
+.. toctree::
+        :maxdepth: 2
+    products/products
+    connectivity/connectivity
