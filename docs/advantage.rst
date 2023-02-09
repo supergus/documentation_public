@@ -1,4 +1,4 @@
-.. _demo_docs_advantage-label:
+.. _pub_docs_advantage-label:
 
 The Liveline advantage
 ======================
@@ -26,4 +26,6 @@ simulation, controls, or artificial intelligence.
 Liveline's approach is ideally suited for plants that want better product quality and less waste,
 and want to supplement technical talent that can be difficult to find.
 
-Contact us today to discuss your needs.
+:ref:`Contact us<pub_docs_contact-label>` today to discuss your needs.
+
+
