@@ -6,9 +6,16 @@
 Public documentation home
 =========================
 
+.. image:: assets/images/ll_cool_bot.png
+    :alt: LL Cool Bot
+    :align: left
+    :width: 150
+
 Liveline Technologies provides factory-scale automation for manufacturers of all sizes.
 We use advanced artificial intelligence to quickly generate AI-based controllers
 that can adjust equipment parameters in real time for an entire production line or cell.
+
+We plug into your existing equipment and provide an entirely software-based solution.
 
 Our approach makes advanced process control (APC) practical for nearly all manufacturers.
 Legacy APC solutions have been limited to refining, petrochemicals, and other sectors with mega-sized
@@ -22,10 +29,7 @@ we leverage AI to make APC affordable for all.
 Overview
 --------
 
-Here you can find general documentation about our company, technology, and products.
-You can also find information about a typical engagement with the Liveline team, and what are the
-prerequisites for your factory prior to engaging.
-
+This site contains general documentation about our company, technology, and products.
 You can jump to selected highlights in the following table, or navigate the full documentation
 using the contents menu.
 
@@ -36,7 +40,7 @@ We're always happy to answer any questions --- please contact us :ref:`here <pub
    :header-rows: 1
 
    * - Selected topics
-     - Link
+     - Links
    * - Is Liveline right for my plant? :raw-html:`<br />`
      - :ref:`Typical use cases <pub_docs_typical_use_cases_top-label>`
    * - Is my factory ready to implement Liveline? :raw-html:`<br />`
@@ -61,17 +65,12 @@ We're always happy to answer any questions --- please contact us :ref:`here <pub
     Case studies <case_studies>
     Products <products>
     Pricing <pricing>
-    Contact us <contact>
+    Scalability <scalability>
+    Team <team>
+    Partners <partners>
+    FAQ <faq>
     Glossary <glossary>
-
-Other ideas for topics
-    about_us
-    integration/integration
-    faq/faq
-    the_team/the_team
-    partners
-    termsofservice
-
+    Contact us <contact>
 
 Test document download
 ----------------------

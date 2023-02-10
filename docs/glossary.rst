@@ -14,12 +14,12 @@ Here we define some common terms you may encounter when working with our product
 
     artificial intelligence
     AI
-        We feel a bit guilty using this term, because most people assume this refers to a
+        We feel a bit guilty using this term, because many people assume "AI" refers to a
         artificial general intelligence, or AGI, which does not yet exist, and may
         not ever be possible to create. A true AGI would be able to understand or learn any task
         that a human can perform, and could possibly attain self-awareness or consciousness.
         Liveline Technologies employs advanced :term:`machine learning<machine learning>` techniques
-        that are often described as "AI" in casual conversation.
+        that are often described as AI in casual conversation.
 
     machine learning
     ML
@@ -104,6 +104,24 @@ Here we define some common terms you may encounter when working with our product
         A proprietary measure of how useful a particular chunk of factory data will be for training
         new models. DQS is continuously calculated while your plant runs normal production.
         We automatically select the most useful data for training our models.
+
+    Advanced Process Control
+    APC
+        An industry term for high-level "supervisory" controls over an entire production process.
+        APC solutions control multiple pieces of equipment and attempt to optimize overall production
+        outcomes while respecting various constraints. The term is often used interchangeably with
+        :term:`Model Predictive Control <MPC>`.
+
+    Model Predictive Control
+    MPC
+        An industry term that is often used interchangeably with
+        :term:`Advanced Process Control<Advanced Process Control>`.
+        In MPC, some sort of process model is used to predict the future evolution of the plant.
+        Based on these predictions, actions can be chosen to optimize future outcomes while respecting
+        various constraints. Note that the way we perform optimization is fundamentally different
+        from `traditional MPC techniques <https://en.wikipedia.org/wiki/Model_predictive_control>`_.
+        Also, our software automatically generates and updates models for even the most complex
+        processes, so users don't need any capabilities for modeling.
 
 A sonnet
 --------

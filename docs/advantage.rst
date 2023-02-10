@@ -4,28 +4,54 @@ The Liveline advantage
 ======================
 
 Liveline's product suite enables rapid and cost-effective automation at the factory system level.
-This typically means controlling an entire production line or cell that consists of multiple processing stages.
+This means controlling an entire production line or cell that consists of multiple processing stages.
 
-Historically, this type of advanced process control (APC) has been costly to implement and difficult to
-maintain as the plant experiences changes to equipment, products, and raw materials.
+Liveline's approach is ideally suited for plants that want:
+    - less scrap and waste
+    - less energy usage and a reduced environmental footprint
+    - higher productivity
+    - better product quality
+    - to supplement technical talent that can be difficult to find
+
+Historically, this type of
+:term:`advanced process control <Advanced Process Control>`
+(APC) has been costly to implement and difficult to
+maintain as the plant experiences natural changes to equipment, products, and raw materials.
 Consequently, APC has not been adopted widely beyond refineries, petrochemicals, and chemical
-production, which together encompass more than 96% of all APC applications in industry. Outside of those
+production, which together encompass more than 90% of all APC applications in industry [1]_. Outside of those
 use cases, the majority of APC applications are no longer running after 5 years.
+
+.. sidebar:: APC or MPC?
+
+    The terms
+    :term:`Advanced Process Control (APC) <Advanced Process Control>` and
+    :term:`Model Predictive Control (MPC) <Model Predictive Control>`
+    are often used
+    interchangeably. This is because APC software uses some sort of predictive model
+    to anticipate how the production process will evolve. Based on these predictions, appropriate
+    control actions can be calculated. We use the term APC, but our controls are indeed an
+    advanced form of MPC based entirely on our proprietary and automated
+    :term:`machine learning <machine learning>`.
 
 Automation of building systems such as lighting and HVAC used to be limited to large
 facilities like skyscrapers and sports stadiums. Technology brought the cost and complexity down to a point
-where consumers can easily automate their own homes today. In an analogous way, Liveline Technologies has
-utilized the power of advanced AI to make factory-wide automation practical for small and medium-sized
+where consumers can easily automate their own homes today. In an analogous way, Liveline Technologies
+utilizes the power of advanced AI to make factory-wide automation practical for small and medium-sized
 manufacturers in a wide variety of industries.
 
-Our proprietary AI is not an add-on to help tune or manage 1970s-style APC algorithms.
+Our proprietary AI is not an add-on to help tune or manage 1970s-style APC systems.
 Our approach is purely AI-based from the ground up. From system modeling to design and tuning of controllers,
 the entire process is highly automated. It does not require any expertise in modeling,
-simulation, controls, or artificial intelligence.
-
-Liveline's approach is ideally suited for plants that want better product quality and less waste,
-and want to supplement technical talent that can be difficult to find.
+simulation, controls, or artificial intelligence. Our unique approach enables rapid and economical
+:ref:`scaling <pub_docs_scalability-label>`
+from pilot applications to a global network of plants.
 
 :ref:`Contact us<pub_docs_contact-label>` today to discuss your needs.
+
+.. [1] Based on user surveys and trends from Qin and Badgwell (2003), "A survey of industrial model
+    predictive control technology", *Control Engineering Practice*,
+    :download:`Download<_static/Qin-Badgwell-2003.pdf>`;
+    and proprietary research from ARC Advisory Group (2022),
+    `Link <https://www.arcweb.com/press/advanced-process-control-and-online-optimization-market-research-report>`_.
 
 

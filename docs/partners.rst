@@ -1,3 +1,5 @@
+.. _pub_docs_partners_top-label:
+
 Partners
 ========
 
