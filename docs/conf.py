@@ -14,11 +14,15 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 
+# -- Register directives --------------------------------------------------------------
+from pyembed.rst import PyEmbedRst
+PyEmbedRst().register()
+
 
 # -- Project information -----------------------------------------------------
 
-project = u'documentation_public'
-copyright = '2022, Liveline Technologies'
+project = u'Public documentation'
+copyright = '2023 Liveline Technologies'
 author = u'Liveline Technologies'
 
 # The full version, including alpha/beta/rc tags
@@ -53,16 +57,21 @@ exclude_patterns = []
 html_theme_options = {
     'logo_only': True,
     'includehidden': False,
+    'display_version': True,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
 }
+
+html_show_sourcelink = False
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-#
-#html_theme = 'alabaster'
 html_theme = "sphinx_rtd_theme"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = 'assets/images/ll_logo_white_text_black_bkgd.png'
+# html_logo = 'assets/images/ll_round_logo_blue_on_xparent_bkgd_100px_300dpi.png'
+html_logo = 'assets/images/ll_full_logo_blue_text_xparent_bkgd_stacked_justified_300px.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -72,4 +81,4 @@ html_static_path = ['_static']
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = 'favicon.png'
+html_favicon = 'assets/images/ll_favicon.png'
